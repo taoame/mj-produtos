@@ -1,0 +1,1738 @@
+[
+  {
+    "id": 1,
+    "nome": "Acetona",
+    "descricao": "Isacare",
+    "preco": 4.0,
+    "imagem": "imagens/Acetona.jpeg"
+  },
+  {
+    "id": 2,
+    "nome": "Adesivo Fotopolimerizavel Podo Beauty 5 ml",
+    "descricao": "Podo Beauty",
+    "preco": 30.0,
+    "imagem": "imagens/adesivo-fotopolimerizavel-podo-beauty-5-ml.jpeg"
+  },
+  {
+    "id": 3,
+    "nome": "Água para Autoclave 5 L",
+    "descricao": "Reymer",
+    "preco": 13.0,
+    "imagem": "imagens/agua-para-autoclave-5-l.jpeg"
+  },
+  {
+    "id": 4,
+    "nome": "Alginato em pó",
+    "descricao": "Podo Beauty",
+    "preco": 25.0,
+    "imagem": "imagens/alginato-em-po.jpeg"
+  },
+  {
+    "id": 5,
+    "nome": "Algodão Hidrófilo não estéril 500 gr",
+    "descricao": "Nathy",
+    "preco": 18.0,
+    "imagem": "imagens/algodao-hidrofilo-nao-esteril-500-gr.jpeg"
+  },
+  {
+    "id": 6,
+    "nome": "Alicate 722",
+    "descricao": "Mundial",
+    "preco": 37.0,
+    "imagem": "imagens/alicate-722.jpeg"
+  },
+  {
+    "id": 7,
+    "nome": "Alicate 775",
+    "descricao": "Mundial",
+    "preco": 27.0,
+    "imagem": "imagens/alicate-775.jpeg"
+  },
+  {
+    "id": 8,
+    "nome": "Alicate 776",
+    "descricao": "Mundial",
+    "preco": 65.0,
+    "imagem": "imagens/alicate-776.jpeg"
+  },
+  {
+    "id": 9,
+    "nome": "Alicate BC-358",
+    "descricao": "Mundial",
+    "preco": 45.0,
+    "imagem": "imagens/alicate-bc-358.jpeg"
+  },
+  {
+    "id": 10,
+    "nome": "Alicate de corte de Fio 4\"",
+    "descricao": "Tramontina",
+    "preco": 25.0,
+    "imagem": "imagens/alicate-de-corte-de-fio-4.jpeg"
+  },
+  {
+    "id": 11,
+    "nome": "Alicate Orto nº 350",
+    "descricao": "Thimon",
+    "preco": 100.0,
+    "imagem": "imagens/alicate-orto-n-350.jpeg"
+  },
+  {
+    "id": 12,
+    "nome": "Alta Frequência Portátil 220V",
+    "descricao": "Estek",
+    "preco": 280.0,
+    "imagem": "imagens/alta-frequencia-portatil-220v.jpeg"
+  },
+  {
+    "id": 13,
+    "nome": "Anestésico",
+    "descricao": "Anestesico",
+    "preco": 120.0,
+    "imagem": "imagens/anestesico.jpeg"
+  },
+  {
+    "id": 14,
+    "nome": "Aplicador de Gaze",
+    "descricao": "Thimon",
+    "preco": 15.0,
+    "imagem": "imagens/aplicador-de-gaze.jpeg"
+  },
+  {
+    "id": 15,
+    "nome": "Aplicador Descartável Regular 100 unidades",
+    "descricao": "Microdont",
+    "preco": 12.0,
+    "imagem": "imagens/aplicador-descartavel-regular-100-unidades.jpeg"
+  },
+  {
+    "id": 16,
+    "nome": "Arco Intraoral Aço Inoxidável fio 16",
+    "descricao": "Morelli",
+    "preco": 15.0,
+    "imagem": "imagens/arco-intraoral-superelastico-fio-12.jpeg"
+  },
+  {
+    "id": 17,
+    "nome": "Arco Intraoral Superelástico fio 12",
+    "descricao": "Morelli",
+    "preco": 15.0,
+    "imagem": "imagens/arco-intraoral-superelastico-fio-14.jpeg"
+  },
+  {
+    "id": 18,
+    "nome": "Arco Intraoral Superelástico fio 14",
+    "descricao": "Morelli",
+    "preco": 15.0,
+    "imagem": "imagens/arco-intraoral-superelastico-fio-16.jpeg"
+  },
+  {
+    "id": 19,
+    "nome": "Arco Intraoral Superelástico fio 18",
+    "descricao": "Morelli",
+    "preco": 15.0,
+    "imagem": "imagens/arco-intraoral-superelastico-fio-18.jpeg"
+  },
+  {
+    "id": 20,
+    "nome": "AT - Azul de Toulidina 20 ml",
+    "descricao": "Art's Aroma",
+    "preco": 40.0,
+    "imagem": "imagens/at---azul-de-toulidina-20-ml.jpeg"
+  },
+  {
+    "id": 21,
+    "nome": "Ata 10 ml",
+    "descricao": "",
+    "preco": 70.0,
+    "imagem": ""
+  },
+  {
+    "id": 22,
+    "nome": "Autoclave Vertical 8 Litros Cor Easy 220 V",
+    "descricao": "Solidsteel",
+    "preco": 1400.0,
+    "imagem": "imagens/autoclave-vertical-8-litros-cor-easy-220-v.jpeg"
+  },
+  {
+    "id": 23,
+    "nome": "AZM - Azul de Metileno 0,1% - 10 ml",
+    "descricao": "MJ",
+    "preco": 12.0,
+    "imagem": "imagens/azm---azul-de-metileno-01---10-ml.jpeg"
+  },
+  {
+    "id": 24,
+    "nome": "Balança Digital",
+    "descricao": "Dellamed",
+    "preco": 45.0,
+    "imagem": "imagens/balanca-digital.jpeg"
+  },
+  {
+    "id": 25,
+    "nome": "Bandeja 224 X 164 Autoclavável Branco",
+    "descricao": "Lysanda",
+    "preco": 15.0,
+    "imagem": "imagens/bandeja-224-x-164-autoclavavel-branco.jpeg"
+  },
+  {
+    "id": 26,
+    "nome": "Bandeja em Aço 22 x 09 x 1,5cm",
+    "descricao": "Aço",
+    "preco": 30.0,
+    "imagem": "imagens/bandeja-em-aco-22-x-09-x-15cm.jpeg"
+  },
+  {
+    "id": 27,
+    "nome": "Barreira Gengical Microdan",
+    "descricao": "Microdont",
+    "preco": 12.0,
+    "imagem": "imagens/barreira-gengical-microdan.jpeg"
+  },
+  {
+    "id": 28,
+    "nome": "Botão Lingual Colagem reto",
+    "descricao": "Orthometric",
+    "preco": 15.0,
+    "imagem": "imagens/botao-lingual-colagem-reto.jpeg"
+  },
+  {
+    "id": 29,
+    "nome": "Braquete Canal Vertical 10.30.205",
+    "descricao": "Morelli",
+    "preco": 22.0,
+    "imagem": ""
+  },
+  {
+    "id": 30,
+    "nome": "Broca Carbide 002",
+    "descricao": "IdentLab",
+    "preco": 15.0,
+    "imagem": "imagens/broca-carbide-002.jpeg"
+  },
+  {
+    "id": 31,
+    "nome": "Broca Carbide 004",
+    "descricao": "IdentLab",
+    "preco": 15.0,
+    "imagem": "imagens/broca-carbide-004.jpeg"
+  },
+  {
+    "id": 32,
+    "nome": "Broca Carbide 008",
+    "descricao": "IdentLab",
+    "preco": 15.0,
+    "imagem": "imagens/broca-carbide-008.jpeg"
+  },
+  {
+    "id": 33,
+    "nome": "Broca Cilindro Bala Extra Fino de Polimento",
+    "descricao": "IdentLab",
+    "preco": 12.0,
+    "imagem": "imagens/broca-cilindro-bala-extra-fino-de-polimento.jpeg"
+  },
+  {
+    "id": 34,
+    "nome": "Broca Cilindro Cinza Grosso de Polimento",
+    "descricao": "IdentLab",
+    "preco": 12.0,
+    "imagem": "imagens/broca-cilindro-cinza-grosso-de-polimento.jpeg"
+  },
+  {
+    "id": 35,
+    "nome": "Broca Cilindro Verde Médio de Polimento",
+    "descricao": "IdentLab",
+    "preco": 12.0,
+    "imagem": "imagens/broca-cilindro-verde-medio-de-polimento.jpeg"
+  },
+  {
+    "id": 36,
+    "nome": "Broca Enucleadora G",
+    "descricao": "Brilho",
+    "preco": 15.0,
+    "imagem": "imagens/broca-enucleadora-g.jpeg"
+  },
+  {
+    "id": 37,
+    "nome": "Broca Enucleadora M",
+    "descricao": "Brilho",
+    "preco": 15.0,
+    "imagem": "imagens/broca-enucleadora-m.jpeg"
+  },
+  {
+    "id": 38,
+    "nome": "Broca Enucleadora P",
+    "descricao": "Brilho",
+    "preco": 15.0,
+    "imagem": "imagens/broca-enucleadora-p.jpeg"
+  },
+  {
+    "id": 39,
+    "nome": "Broca PM 003",
+    "descricao": "IdentLab",
+    "preco": 9.0,
+    "imagem": "imagens/broca-pm-003.jpeg"
+  },
+  {
+    "id": 40,
+    "nome": "Broca PM 006",
+    "descricao": "IdentLab",
+    "preco": 9.0,
+    "imagem": "imagens/broca-pm-006.jpeg"
+  },
+  {
+    "id": 41,
+    "nome": "Broca PM 042",
+    "descricao": "IdentLab",
+    "preco": 9.0,
+    "imagem": "imagens/broca-pm-042.jpeg"
+  },
+  {
+    "id": 42,
+    "nome": "Broca PM 715",
+    "descricao": "IdentLab",
+    "preco": 9.0,
+    "imagem": ""
+  },
+  {
+    "id": 43,
+    "nome": "Broca PM 718",
+    "descricao": "IdentLab",
+    "preco": 9.0,
+    "imagem": "imagens/broca-pm-718.jpeg"
+  },
+  {
+    "id": 44,
+    "nome": "Broca PM 720",
+    "descricao": "IdentLab",
+    "preco": 9.0,
+    "imagem": "imagens/broca-pm-720.jpeg"
+  },
+  {
+    "id": 45,
+    "nome": "Broca PM 721",
+    "descricao": "IdentLab",
+    "preco": 9.0,
+    "imagem": "imagens/broca-pm-721.jpeg"
+  },
+  {
+    "id": 46,
+    "nome": "Broca PM 730",
+    "descricao": "IdentLab",
+    "preco": 9.0,
+    "imagem": "imagens/broca-pm-730.jpeg"
+  },
+  {
+    "id": 47,
+    "nome": "Broca PM 740",
+    "descricao": "IdentLab",
+    "preco": 9.0,
+    "imagem": "imagens/broca-pm-740.jpeg"
+  },
+  {
+    "id": 48,
+    "nome": "Bulbo para LB 100 Cabo Fixo Modelo Novo",
+    "descricao": "Beltec",
+    "preco": 200.0,
+    "imagem": "imagens/bulbo-para-lb-100-cabo-fixo-modelo-novo.jpeg"
+  },
+  {
+    "id": 49,
+    "nome": "Bulbo para LB 100 Modelo Antigo",
+    "descricao": "Beltec",
+    "preco": 170.0,
+    "imagem": "imagens/bulbo-para-lb-100-modelo-antigo.jpeg"
+  },
+  {
+    "id": 50,
+    "nome": "Cabo de Bisturi Nº 3",
+    "descricao": "Thimon",
+    "preco": 15.0,
+    "imagem": "imagens/cabo-de-bisturi-n-3.jpeg"
+  },
+  {
+    "id": 51,
+    "nome": "Cabo de Bisturi Nº 4",
+    "descricao": "Thimon",
+    "preco": 15.0,
+    "imagem": "imagens/cabo-de-bisturi-n-4-golgran.jpeg"
+  },
+  {
+    "id": 52,
+    "nome": "Cabo de Bisturi Nº 4 golgran",
+    "descricao": "Golgran",
+    "preco": 10.0,
+    "imagem": "imagens/cabo-de-bisturi-n-4.jpeg"
+  },
+  {
+    "id": 53,
+    "nome": "Cabo de Gúbia",
+    "descricao": "Thimon",
+    "preco": 60.0,
+    "imagem": "imagens/cabo-de-gubia.jpeg"
+  },
+  {
+    "id": 54,
+    "nome": "Cabo Fixo LB 100 Novo",
+    "descricao": "Beltec",
+    "preco": 50.0,
+    "imagem": "imagens/cabo-fixo-lb-100-novo.jpeg"
+  },
+  {
+    "id": 55,
+    "nome": "Cabo LB 100",
+    "descricao": "Beltec",
+    "preco": 70.0,
+    "imagem": "imagens/cabo-lb-100.jpeg"
+  },
+  {
+    "id": 56,
+    "nome": "Catalisador Podo Beauty 50 gramas",
+    "descricao": "Podo Beauty",
+    "preco": 70.0,
+    "imagem": "imagens/catalisador-podo-beauty-50-gramas.jpeg"
+  },
+  {
+    "id": 57,
+    "nome": "Cimento Cirurgico Liquido 20 ml",
+    "descricao": "Lysanda",
+    "preco": 20.0,
+    "imagem": "imagens/cimento-cirurgico-liquido-20-ml.jpeg"
+  },
+  {
+    "id": 58,
+    "nome": "Cimento Cirurgico Pó 50 gr",
+    "descricao": "Lysanda",
+    "preco": 20.0,
+    "imagem": "imagens/cimento-cirurgico-po-50-gr.jpeg"
+  },
+  {
+    "id": 59,
+    "nome": "Cloreto de Sódio 5 ml",
+    "descricao": "Samtec",
+    "preco": 1.0,
+    "imagem": "imagens/cloreto-de-sodio-5-ml.jpeg"
+  },
+  {
+    "id": 60,
+    "nome": "Coban 2,5cm Bege",
+    "descricao": "Lupmed",
+    "preco": 8.0,
+    "imagem": "imagens/coban-25cm-bege.jpeg"
+  },
+  {
+    "id": 61,
+    "nome": "Coban 5cm Bege",
+    "descricao": "Lupmed",
+    "preco": 12.0,
+    "imagem": "imagens/coban-5cm-bege.jpeg"
+  },
+  {
+    "id": 62,
+    "nome": "Coletor de Pó",
+    "descricao": "Beltec",
+    "preco": 200.0,
+    "imagem": "imagens/coletor-de-po.jpeg"
+  },
+  {
+    "id": 63,
+    "nome": "Coletor Perfurocortantes 3 litros",
+    "descricao": "Descarbox",
+    "preco": 3.0,
+    "imagem": "imagens/coletor-perfurocortantes-3-litros.jpeg"
+  },
+  {
+    "id": 64,
+    "nome": "Coletor Perfurocortantes 7 litros",
+    "descricao": "Descarbox",
+    "preco": 5.0,
+    "imagem": "imagens/coletor-perfurocortantes-7-litros.jpeg"
+  },
+  {
+    "id": 65,
+    "nome": "Compressa Gaze Hidrófila 09 fios não esteril",
+    "descricao": "Desctextil",
+    "preco": 15.0,
+    "imagem": "imagens/compressa-gaze-hidrofila-09-fios-nao-esteril.jpeg"
+  },
+  {
+    "id": 66,
+    "nome": "Creme Barreira 60 gr Derma protect",
+    "descricao": "Missner",
+    "preco": 40.0,
+    "imagem": "imagens/creme-barreira-60-gr-derma-protect.jpeg"
+  },
+  {
+    "id": 67,
+    "nome": "Cuba Mini 200 Ml Cores",
+    "descricao": "NewLys",
+    "preco": 5.0,
+    "imagem": "imagens/cuba-mini-200-ml-cores.jpeg"
+  },
+  {
+    "id": 68,
+    "nome": "Cuba Mini 60 Ml Cores",
+    "descricao": "NewLys",
+    "preco": 5.0,
+    "imagem": "imagens/cuba-mini-60-ml-cores.jpeg"
+  },
+  {
+    "id": 69,
+    "nome": "Cuba para Imersão Plastico",
+    "descricao": "Biovis",
+    "preco": 65.0,
+    "imagem": "imagens/cuba-para-imersao-plastico.jpeg"
+  },
+  {
+    "id": 70,
+    "nome": "Curativo Alginato de Cálcio e Prata 10 x 10 cm",
+    "descricao": "Missner",
+    "preco": 25.0,
+    "imagem": "imagens/curativo-alginato-de-calcio-e-prata-10-x-10-cm.jpeg"
+  },
+  {
+    "id": 71,
+    "nome": "Curativo Alginato de Cálcio e Prata Fita 2cm x 30cm",
+    "descricao": "Missner",
+    "preco": 20.0,
+    "imagem": "imagens/curativo-alginato-de-calcio-e-prata-fita-2cm-x-30cm.jpeg"
+  },
+  {
+    "id": 72,
+    "nome": "Curativo Alginato de Cálcio e Sódio 10 x 10 cm",
+    "descricao": "Missner",
+    "preco": 10.0,
+    "imagem": "imagens/curativo-alginato-de-calcio-e-sodio-10-x-10-cm.jpeg"
+  },
+  {
+    "id": 73,
+    "nome": "Curativo de PU Absorvente 10cm x 10cm",
+    "descricao": "Missner",
+    "preco": 40.0,
+    "imagem": "imagens/curativo-de-pu-absorvente-10cm-x-10cm.jpeg"
+  },
+  {
+    "id": 74,
+    "nome": "Curativo em Gel com Alginato 85 gr",
+    "descricao": "Missner",
+    "preco": 20.0,
+    "imagem": "imagens/curativo-em-gel-com-alginato-85-gr.jpeg"
+  },
+  {
+    "id": 75,
+    "nome": "Curativo Espuma absorvente silicone 5 camadas 10 x 10cm",
+    "descricao": "Missner",
+    "preco": 20.0,
+    "imagem": "imagens/curativo-espuma-absorvente-silicone-5-camadas-10-x-10cm.jpeg"
+  },
+  {
+    "id": 76,
+    "nome": "Curativo Filme Transparente rolo 10cm x 10m",
+    "descricao": "Missner",
+    "preco": 50.0,
+    "imagem": "imagens/curativo-filme-transparente-rolo-10cm-x-10m.jpeg"
+  },
+  {
+    "id": 77,
+    "nome": "Curativo Hidrocolóide Plus com Espuma 10 x 10 cm",
+    "descricao": "Missner",
+    "preco": 10.0,
+    "imagem": "imagens/curativo-hidrocoloide-plus-com-espuma-10-x-10-cm.jpeg"
+  },
+  {
+    "id": 78,
+    "nome": "Curativo Liquido Hemostático 28 ml",
+    "descricao": "Missner",
+    "preco": 25.0,
+    "imagem": "imagens/curativo-liquido-hemostatico-28-ml.jpeg"
+  },
+  {
+    "id": 79,
+    "nome": "Dedo em Biscuit com Patologia",
+    "descricao": "MJ",
+    "preco": 20.0,
+    "imagem": "imagens/dedo-em-biscuit-com-patologia.jpeg"
+  },
+  {
+    "id": 80,
+    "nome": "Detergente Enzimatico 1L",
+    "descricao": "Prolink",
+    "preco": 18.0,
+    "imagem": "imagens/detergente-enzimatico-1l.jpeg"
+  },
+  {
+    "id": 81,
+    "nome": "Diapasão 128 HZ",
+    "descricao": "Golgran",
+    "preco": 80.0,
+    "imagem": "imagens/diapasao-128-hz.jpeg"
+  },
+  {
+    "id": 82,
+    "nome": "D-PEDEX Antimicótico",
+    "descricao": "Art's Aroma",
+    "preco": 35.0,
+    "imagem": "imagens/d-pedex-antimicotico.jpeg"
+  },
+  {
+    "id": 83,
+    "nome": "Elástico Corrente Curto 1,50m Branco",
+    "descricao": "Orthometric",
+    "preco": 15.0,
+    "imagem": "imagens/elastico-corrente-curto-150m-branco.jpeg"
+  },
+  {
+    "id": 84,
+    "nome": "Envelope Autoselante 50 x 130mm",
+    "descricao": "PackGC",
+    "preco": 13.0,
+    "imagem": "imagens/envelope-autoselante-50-x-130mm.jpeg"
+  },
+  {
+    "id": 85,
+    "nome": "Envelope Autoselante 90 x 230mm",
+    "descricao": "PackGC",
+    "preco": 21.0,
+    "imagem": "imagens/envelope-autoselante-90-x-230mm.jpeg"
+  },
+  {
+    "id": 86,
+    "nome": "Envelope Autoselante 90 x 260mm",
+    "descricao": "PackGC",
+    "preco": 23.0,
+    "imagem": "imagens/envelope-autoselante-90-x-260mm.jpeg"
+  },
+  {
+    "id": 87,
+    "nome": "Esparadrapo Impermeavel 2,5 cm x 4,5 m",
+    "descricao": "Missner",
+    "preco": 5.0,
+    "imagem": "imagens/esparadrapo-impermeavel-25-cm-x-45-m.jpeg"
+  },
+  {
+    "id": 88,
+    "nome": "Esparadrapo Impermeavel 5 cm x 4,5 m",
+    "descricao": "Missner",
+    "preco": 8.0,
+    "imagem": "imagens/esparadrapo-impermeavel-5-cm-x-45-m-2.jpeg"
+  },
+  {
+    "id": 89,
+    "nome": "Espuma Copiadora",
+    "descricao": "Herbitas",
+    "preco": 20.0,
+    "imagem": "imagens/espuma-copiadora.jpeg"
+  },
+  {
+    "id": 90,
+    "nome": "Estetoscópio Duplo Preto",
+    "descricao": "Dellamed",
+    "preco": 20.0,
+    "imagem": "imagens/estetoscopio-duplo-preto.jpeg"
+  },
+  {
+    "id": 91,
+    "nome": "Exaustor Alum LED Apoio Mesa Autovolt Branco",
+    "descricao": "Estek",
+    "preco": 580.0,
+    "imagem": "imagens/exaustor-alum-led-apoio-mesa-autovolt-branco.jpeg"
+  },
+  {
+    "id": 92,
+    "nome": "Feltro ADH 5 mm 10 CMX 3M",
+    "descricao": "Herbitas",
+    "preco": 300.0,
+    "imagem": "imagens/feltro-adh-5-mm-10-cmx-3m.jpeg"
+  },
+  {
+    "id": 93,
+    "nome": "Fibra Molecular 0,18 mm",
+    "descricao": "Alternativa",
+    "preco": 10.0,
+    "imagem": "imagens/fibra-molecular-018-mm.jpeg"
+  },
+  {
+    "id": 94,
+    "nome": "Fibra Molecular 0,20 mm",
+    "descricao": "Alternativa",
+    "preco": 10.0,
+    "imagem": "imagens/fibra-molecular-020-mm.jpeg"
+  },
+  {
+    "id": 95,
+    "nome": "Fibra Molecular 0,22 mm",
+    "descricao": "Alternativa",
+    "preco": 10.0,
+    "imagem": "imagens/fibra-molecular-022-mm.jpeg"
+  },
+  {
+    "id": 96,
+    "nome": "Fibra Molecular 0,25 mm",
+    "descricao": "Alternativa",
+    "preco": 10.0,
+    "imagem": "imagens/fibra-molecular-025-mm.jpeg"
+  },
+  {
+    "id": 97,
+    "nome": "Fibra Molecular 0,30 mm",
+    "descricao": "Alternativa",
+    "preco": 10.0,
+    "imagem": "imagens/fibra-molecular-030-mm.jpeg"
+  },
+  {
+    "id": 98,
+    "nome": "Fita de Kinésio Cor Bege",
+    "descricao": "Dellamed",
+    "preco": 30.0,
+    "imagem": "imagens/fita-de-kinesio-cor-bege.jpeg"
+  },
+  {
+    "id": 99,
+    "nome": "Fita Micropore 2,5cm x 4,5 m Branca",
+    "descricao": "Missner",
+    "preco": 4.0,
+    "imagem": "imagens/fita-micropore-25cm-x-45-m-branca.jpeg"
+  },
+  {
+    "id": 100,
+    "nome": "Fita Micropore 5cm x 4,5 m Branca",
+    "descricao": "Missner",
+    "preco": 6.0,
+    "imagem": "imagens/fita-micropore-5cm-x-45-m-branca.jpeg"
+  },
+  {
+    "id": 101,
+    "nome": "Fotopolimerizador Bluestar 2 Branco",
+    "descricao": "Microdont",
+    "preco": 520.0,
+    "imagem": "imagens/fotopolimerizador-bluestar-2-branco---copia.jpeg"
+  },
+  {
+    "id": 102,
+    "nome": "Fotopolimerizador Bluestar 2 Preto",
+    "descricao": "Microdont",
+    "preco": 520.0,
+    "imagem": "imagens/fotopolimerizador-bluestar-2-preto.jpeg"
+  },
+  {
+    "id": 103,
+    "nome": "Fungipro 20 ml",
+    "descricao": "WNF",
+    "preco": 30.0,
+    "imagem": "imagens/fungipro-20-ml.jpeg"
+  },
+  {
+    "id": 104,
+    "nome": "Gancho para tração 30.21.104",
+    "descricao": "Morelli",
+    "preco": 25.0,
+    "imagem": "imagens/gancho-para-tracao-30.21.104.jpeg"
+  },
+  {
+    "id": 105,
+    "nome": "Gel para Unhas com Clotrimazol 15 ml",
+    "descricao": "Baehr",
+    "preco": 450.0,
+    "imagem": "imagens/gel-para-unhas-com-clotrimazol-15-ml.jpeg"
+  },
+  {
+    "id": 106,
+    "nome": "Gesso Pedra Tipo 3  de 1kg",
+    "descricao": "Podo Beauty",
+    "preco": 18.0,
+    "imagem": "imagens/gesso-pedra-tipo-3--de-1kg.jpeg"
+  },
+  {
+    "id": 107,
+    "nome": "ILIB Smile",
+    "descricao": "Smile",
+    "preco": 3800.0,
+    "imagem": ""
+  },
+  {
+    "id": 108,
+    "nome": "Indicador Biológico 24 Horas",
+    "descricao": "2I",
+    "preco": 20.0,
+    "imagem": "imagens/indicador-biologico-24-horas.jpeg"
+  },
+  {
+    "id": 109,
+    "nome": "Indicador Químico  Tipo 5",
+    "descricao": "2I",
+    "preco": 20.0,
+    "imagem": "imagens/indicador-quimico--tipo-5.jpeg"
+  },
+  {
+    "id": 110,
+    "nome": "Laminas Avulsas First Blade Nº 01",
+    "descricao": "First Blade",
+    "preco": 6.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-01.jpeg"
+  },
+  {
+    "id": 111,
+    "nome": "Laminas Avulsas First Blade Nº 02",
+    "descricao": "First Blade",
+    "preco": 6.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-02.jpeg"
+  },
+  {
+    "id": 112,
+    "nome": "Laminas Avulsas First Blade Nº 03",
+    "descricao": "First Blade",
+    "preco": 4.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-03.jpeg"
+  },
+  {
+    "id": 113,
+    "nome": "Laminas Avulsas First Blade Nº 04",
+    "descricao": "First Blade",
+    "preco": 4.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-04.jpeg"
+  },
+  {
+    "id": 114,
+    "nome": "Laminas Avulsas First Blade Nº 05",
+    "descricao": "First Blade",
+    "preco": 4.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-05.jpeg"
+  },
+  {
+    "id": 115,
+    "nome": "Laminas Avulsas First Blade Nº 06",
+    "descricao": "First Blade",
+    "preco": 4.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-06.jpeg"
+  },
+  {
+    "id": 116,
+    "nome": "Laminas Avulsas First Blade Nº 08",
+    "descricao": "First Blade",
+    "preco": 4.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-08.jpeg"
+  },
+  {
+    "id": 117,
+    "nome": "Laminas Avulsas First Blade Nº 10",
+    "descricao": "First Blade",
+    "preco": 4.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-10.jpeg"
+  },
+  {
+    "id": 118,
+    "nome": "Laminas Avulsas First Blade Nº 12",
+    "descricao": "First Blade",
+    "preco": 4.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-12.jpeg"
+  },
+  {
+    "id": 119,
+    "nome": "Laminas Avulsas First Blade Nº 15",
+    "descricao": "First Blade",
+    "preco": 4.0,
+    "imagem": "imagens/laminas-avulsas-first-blade-n-15.jpeg"
+  },
+  {
+    "id": 120,
+    "nome": "Lâminas para Bisturi Aço Carbono nº 10",
+    "descricao": "Uniqmed",
+    "preco": 30.0,
+    "imagem": "imagens/laminas-para-bisturi-aco-carbono-n-10.jpeg"
+  },
+  {
+    "id": 121,
+    "nome": "Lâminas para Bisturi Aço Carbono nº 15",
+    "descricao": "Uniqmed",
+    "preco": 30.0,
+    "imagem": "imagens/laminas-para-bisturi-aco-carbono-n-15.jpeg"
+  },
+  {
+    "id": 122,
+    "nome": "Lâminas para Bisturi Aço Carbono nº 20",
+    "descricao": "Uniqmed",
+    "preco": 30.0,
+    "imagem": "imagens/laminas-para-bisturi-aco-carbono-n-20.jpeg"
+  },
+  {
+    "id": 123,
+    "nome": "Lâminas para Bisturi Aço Carbono nº 21",
+    "descricao": "Uniqmed",
+    "preco": 30.0,
+    "imagem": "imagens/laminas-para-bisturi-aco-carbono-n-21.jpeg"
+  },
+  {
+    "id": 124,
+    "nome": "Lâminas para Bisturi Aço Carbono nº 22",
+    "descricao": "Uniqmed",
+    "preco": 30.0,
+    "imagem": "imagens/laminas-para-bisturi-aco-carbono-n-22.jpeg"
+  },
+  {
+    "id": 125,
+    "nome": "Laser Bios Therapy X",
+    "descricao": "Bios",
+    "preco": 7200.0,
+    "imagem": "imagens/laser-bios-therapy-x.jpeg"
+  },
+  {
+    "id": 126,
+    "nome": "Laser Smile Hands",
+    "descricao": "Smile",
+    "preco": 4000.0,
+    "imagem": "imagens/laser-smile-hands.jpeg"
+  },
+  {
+    "id": 127,
+    "nome": "Lençol Descartavel 50 x 50 cm",
+    "descricao": "Descarbox",
+    "preco": 10.0,
+    "imagem": "imagens/lencol-descartavel-50-x-50-cm.jpeg"
+  },
+  {
+    "id": 128,
+    "nome": "Lençol Descartavel 70 x 50 cm",
+    "descricao": "Descarbox",
+    "preco": 15.0,
+    "imagem": "imagens/lencol-descartavel-70-x-50-cm.jpeg"
+  },
+  {
+    "id": 129,
+    "nome": "Lixa Laminar Gr. 120",
+    "descricao": "MJ",
+    "preco": 10.0,
+    "imagem": "imagens/lixa-laminar-gr.-120.jpeg"
+  },
+  {
+    "id": 130,
+    "nome": "Lixa Laminar Gr. 180",
+    "descricao": "MJ",
+    "preco": 10.0,
+    "imagem": "imagens/lixa-laminar-gr.-180.jpeg"
+  },
+  {
+    "id": 131,
+    "nome": "Lixa Laminar Gr. 220",
+    "descricao": "MJ",
+    "preco": 10.0,
+    "imagem": "imagens/lixa-laminar-gr.-220.jpeg"
+  },
+  {
+    "id": 132,
+    "nome": "Lixa Laminar Gr. 400",
+    "descricao": "MJ",
+    "preco": 10.0,
+    "imagem": "imagens/lixa-laminar-gr.-400.jpeg"
+  },
+  {
+    "id": 133,
+    "nome": "Lixa Laminar Podo System Gr. 080",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": "imagens/lixa-laminar-podo-system-gr.-100.jpeg"
+  },
+  {
+    "id": 134,
+    "nome": "Lixa Laminar Podo System Gr. 120",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": "imagens/lixa-laminar-podo-system-gr.-120.jpeg"
+  },
+  {
+    "id": 135,
+    "nome": "Lixa Laminar Podo System Gr. 150",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": ""
+  },
+  {
+    "id": 136,
+    "nome": "Lixa Laminar Podo System Gr. 180",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": "imagens/lixa-laminar-podo-system-gr.-180.jpeg"
+  },
+  {
+    "id": 137,
+    "nome": "Lixa Laminar Podo System Gr. 220",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": ""
+  },
+  {
+    "id": 138,
+    "nome": "Lixa Laminar Podo System Gr. 320",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": ""
+  },
+  {
+    "id": 139,
+    "nome": "Lixa Laminar Podo System Gr. 400",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": "imagens/lixa-laminar-podo-system-gr.-400.jpeg"
+  },
+  {
+    "id": 140,
+    "nome": "Lixa Laminar Podo System Gr. 600",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": ""
+  },
+  {
+    "id": 141,
+    "nome": "Lixa Plantar Gr. 100",
+    "descricao": "MJ",
+    "preco": 12.0,
+    "imagem": ""
+  },
+  {
+    "id": 142,
+    "nome": "Lixa Plantar Gr. 120",
+    "descricao": "MJ",
+    "preco": 12.0,
+    "imagem": ""
+  },
+  {
+    "id": 143,
+    "nome": "Lixa Plantar Gr. 150",
+    "descricao": "MJ",
+    "preco": 12.0,
+    "imagem": "imagens/lixa-plantar-gr.-150.jpeg"
+  },
+  {
+    "id": 144,
+    "nome": "Lixa Plantar Gr. 180",
+    "descricao": "MJ",
+    "preco": 12.0,
+    "imagem": ""
+  },
+  {
+    "id": 145,
+    "nome": "Lixa Plantar Gr. 220",
+    "descricao": "MJ",
+    "preco": 12.0,
+    "imagem": "imagens/lixa-plantar-gr.-220.jpeg"
+  },
+  {
+    "id": 146,
+    "nome": "Lixa Plantar Gr. 80",
+    "descricao": "MJ",
+    "preco": 12.0,
+    "imagem": "imagens/lixa-plantar-gr.-80.jpeg"
+  },
+  {
+    "id": 147,
+    "nome": "Lixa Plantar Podo System Gr. 050",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": ""
+  },
+  {
+    "id": 148,
+    "nome": "Lixa Plantar Podo System Gr. 080",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": ""
+  },
+  {
+    "id": 149,
+    "nome": "Lixa Plantar Podo System Gr. 100",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": "imagens/lixa-plantar-podo-system-gr.-100.jpeg"
+  },
+  {
+    "id": 150,
+    "nome": "Lixa Plantar Podo System Gr. 120",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": ""
+  },
+  {
+    "id": 151,
+    "nome": "Lixa Plantar Podo System Gr. 150",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": "imagens/lixa-plantar-podo-system-gr.-150.jpeg"
+  },
+  {
+    "id": 152,
+    "nome": "Lixa Plantar Podo System Gr. 180",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": "imagens/lixa-plantar-podo-system-gr.-180.jpeg"
+  },
+  {
+    "id": 153,
+    "nome": "Lixa Plantar Podo System Gr. 220",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": "imagens/lixa-plantar-podo-system-gr.-220.jpeg"
+  },
+  {
+    "id": 154,
+    "nome": "Lixa Plantar Podo System Gr. 320",
+    "descricao": "Podo System",
+    "preco": 19.0,
+    "imagem": "imagens/lixa-plantar-podo-system-gr.-320.jpeg"
+  },
+  {
+    "id": 155,
+    "nome": "Luva Procedimento c/ Pó  Standard   Tam.  EP",
+    "descricao": "Unigloves",
+    "preco": 30.0,
+    "imagem": "imagens/luva-procedimento-c-po--standard---tam.--g.jpeg"
+  },
+  {
+    "id": 156,
+    "nome": "Luva Procedimento c/ Pó  Standard   Tam.  M",
+    "descricao": "Unigloves",
+    "preco": 30.0,
+    "imagem": "imagens/luva-procedimento-c-po--standard---tam.--m.jpeg"
+  },
+  {
+    "id": 157,
+    "nome": "Luva Procedimento c/ Pó  Standard   Tam.  P",
+    "descricao": "Unigloves",
+    "preco": 30.0,
+    "imagem": "imagens/luva-procedimento-c-po--standard---tam.--p.jpeg"
+  },
+  {
+    "id": 158,
+    "nome": "Malha Tubular para Dedo 1,5cm x 25m",
+    "descricao": "Msó",
+    "preco": 13.0,
+    "imagem": "imagens/malha-tubular-para-dedo-15cm-x-25m.jpeg"
+  },
+  {
+    "id": 159,
+    "nome": "Mandril Laminar Podo System",
+    "descricao": "Podo System",
+    "preco": 21.0,
+    "imagem": "imagens/mandril-laminar-podo-system.jpeg"
+  },
+  {
+    "id": 160,
+    "nome": "Mandril Plantar Podo System",
+    "descricao": "Podo System",
+    "preco": 21.0,
+    "imagem": "imagens/mandril-plantar-podo-system---copia.jpeg"
+  },
+  {
+    "id": 161,
+    "nome": "Mandril PM",
+    "descricao": "IdentLab",
+    "preco": 4.0,
+    "imagem": "imagens/mandril-pm-reforcado.jpeg"
+  },
+  {
+    "id": 162,
+    "nome": "Mandril PM Reforçado",
+    "descricao": "IdentLab",
+    "preco": 5.0,
+    "imagem": "imagens/mandril-pm.jpeg"
+  },
+  {
+    "id": 163,
+    "nome": "Marcador de Instrumentais Azul Escuro",
+    "descricao": "Lysanda",
+    "preco": 15.0,
+    "imagem": "imagens/marcador-de-instrumentais-azul-escuro.jpeg"
+  },
+  {
+    "id": 164,
+    "nome": "Marcador de Instrumentais Lilás",
+    "descricao": "Lysanda",
+    "preco": 15.0,
+    "imagem": ""
+  },
+  {
+    "id": 165,
+    "nome": "Marcador de Instrumentais Preto",
+    "descricao": "Lysanda",
+    "preco": 15.0,
+    "imagem": ""
+  },
+  {
+    "id": 166,
+    "nome": "Marcador de Instrumentais Rosa Claro",
+    "descricao": "Lysanda",
+    "preco": 15.0,
+    "imagem": "imagens/marcador-de-instrumentais-rosa-claro.jpeg"
+  },
+  {
+    "id": 167,
+    "nome": "Martelo para Reflexo Taylor Azul",
+    "descricao": "BIC",
+    "preco": 25.0,
+    "imagem": "imagens/martelo-para-reflexo-taylor-azul.jpeg"
+  },
+  {
+    "id": 168,
+    "nome": "Massa Ortoplastia Podo Beauty Medium 250 G com Catalisador",
+    "descricao": "Podo Beauty",
+    "preco": 300.0,
+    "imagem": "imagens/massa-ortoplastia-podo-beauty-medium-250-g-com-catalisador.jpeg"
+  },
+  {
+    "id": 169,
+    "nome": "Massa Ortoplastia Podo Beauty Soft 250 G com Catalisador",
+    "descricao": "Podo Beauty",
+    "preco": 300.0,
+    "imagem": "imagens/massa-ortoplastia-podo-beauty-soft-250-g-com-catalisador.jpeg"
+  },
+  {
+    "id": 170,
+    "nome": "Massa para Ortoplastia Podia A + B  400 gr",
+    "descricao": "Herbitas",
+    "preco": 350.0,
+    "imagem": "imagens/massa-para-ortoplastia-podia-a--b--400-gr.jpeg"
+  },
+  {
+    "id": 171,
+    "nome": "Massageador para LB 100",
+    "descricao": "Beltec",
+    "preco": 200.0,
+    "imagem": "imagens/massageador-para-lb-100.jpeg"
+  },
+  {
+    "id": 172,
+    "nome": "Micromotor Elétrico LB 100",
+    "descricao": "Beltec",
+    "preco": 580.0,
+    "imagem": "imagens/micromotor-eletrico-lb-100.jpeg"
+  },
+  {
+    "id": 173,
+    "nome": "Micromotor Elétrico LB 20",
+    "descricao": "Beltec",
+    "preco": 250.0,
+    "imagem": "imagens/micromotor-eletrico-lb-20.jpeg"
+  },
+  {
+    "id": 174,
+    "nome": "Micromotor Elétrico LB 50",
+    "descricao": "Beltec",
+    "preco": 300.0,
+    "imagem": "imagens/micromotor-eletrico-lb-50.jpeg"
+  },
+  {
+    "id": 175,
+    "nome": "Mini Incubadora para Testes Biológicos 2I",
+    "descricao": "2I",
+    "preco": 150.0,
+    "imagem": "imagens/mini-incubadora-para-testes-biologicos-2i.jpeg"
+  },
+  {
+    "id": 176,
+    "nome": "Mini Lenço com 600 Unidades 7,0 x 7,0 cm",
+    "descricao": "Podo System",
+    "preco": 25.0,
+    "imagem": "imagens/mini-lenco-com-600-unidades-70-x-70-cm.jpeg"
+  },
+  {
+    "id": 177,
+    "nome": "Monitor pressão de Pulso",
+    "descricao": "Dellamed",
+    "preco": 80.0,
+    "imagem": "imagens/monitor-pressao-de-pulso.jpeg"
+  },
+  {
+    "id": 178,
+    "nome": "N 205 Nano Nuclear",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-205-nano-nuclear.jpeg"
+  },
+  {
+    "id": 179,
+    "nome": "N 206 Goiva para Unha Encravada",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-206-goiva-para-unha-encravada-mj.jpeg"
+  },
+  {
+    "id": 180,
+    "nome": "N 206 Goiva para Unha Encravada MJ",
+    "descricao": "MJ",
+    "preco": 7.0,
+    "imagem": "imagens/n-206-goiva-para-unha-encravada.jpeg"
+  },
+  {
+    "id": 181,
+    "nome": "N 207 Goiva para Unha Encravada",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": ""
+  },
+  {
+    "id": 182,
+    "nome": "N 207 Goiva para Unha Encravada MJ",
+    "descricao": "MJ",
+    "preco": 11.0,
+    "imagem": "imagens/n-207-goiva-para-unha-encravada-mj.jpeg"
+  },
+  {
+    "id": 183,
+    "nome": "N 208 Micro Nuclear",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-208-micro-nuclear-mj.jpeg"
+  },
+  {
+    "id": 184,
+    "nome": "N 208 Micro Nuclear MJ",
+    "descricao": "MJ",
+    "preco": 7.0,
+    "imagem": "imagens/n-208-micro-nuclear.jpeg"
+  },
+  {
+    "id": 185,
+    "nome": "N 209 Nuclear Estreito",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-209-nuclear-estreito.jpeg"
+  },
+  {
+    "id": 186,
+    "nome": "N 209 Nuclear Estreito MJ",
+    "descricao": "MJ",
+    "preco": 7.0,
+    "imagem": ""
+  },
+  {
+    "id": 187,
+    "nome": "N 214 Nuclear Largo",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-214-nuclear-largo.jpeg"
+  },
+  {
+    "id": 188,
+    "nome": "N 214 Nuclear Largo MJ",
+    "descricao": "MJ",
+    "preco": 7.0,
+    "imagem": ""
+  },
+  {
+    "id": 189,
+    "nome": "N 220  Calo Interdigital",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-220--calo-interdigital.jpeg"
+  },
+  {
+    "id": 190,
+    "nome": "N 245 - Estilete",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-245---estilete.jpeg"
+  },
+  {
+    "id": 191,
+    "nome": "N 246 Aplicador de Clip",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-246-aplicador-de-clip.jpeg"
+  },
+  {
+    "id": 192,
+    "nome": "N 247 - Aplicador de Elastick",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-247---aplicador-de-elastick.jpeg"
+  },
+  {
+    "id": 193,
+    "nome": "N 254 Cinzel Formão",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-254-cinzel-formao.jpeg"
+  },
+  {
+    "id": 194,
+    "nome": "N 254 Cinzel Formão MJ",
+    "descricao": "MJ",
+    "preco": 7.0,
+    "imagem": ""
+  },
+  {
+    "id": 195,
+    "nome": "N 260 - Espatula",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-260---espatula.jpeg"
+  },
+  {
+    "id": 196,
+    "nome": "N 261A Cureta Simples",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-261a-cureta-simples.jpeg"
+  },
+  {
+    "id": 197,
+    "nome": "N 261B Cureta Simples Modif.",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-261b-cureta-simples-modif..jpeg"
+  },
+  {
+    "id": 198,
+    "nome": "N 261C Cureta Vazada",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-261c-cureta-vazada.jpeg"
+  },
+  {
+    "id": 199,
+    "nome": "N 262 Cureta Pé Diabético",
+    "descricao": "Thimon",
+    "preco": 12.0,
+    "imagem": "imagens/n-262-cureta-pe-diabetico.jpeg"
+  },
+  {
+    "id": 200,
+    "nome": "Óleo de Girassol Ozonizado 30 ml",
+    "descricao": "WNF",
+    "preco": 35.0,
+    "imagem": "imagens/oleo-de-girassol-ozonizado-30-ml.jpeg"
+  },
+  {
+    "id": 201,
+    "nome": "Óleo Essencial Citronela 5 ml",
+    "descricao": "WNF",
+    "preco": 20.0,
+    "imagem": "imagens/oleo-essencial-citronela-5-ml.jpeg"
+  },
+  {
+    "id": 202,
+    "nome": "Óleo Essencial Copaíba 5 ml",
+    "descricao": "WNF",
+    "preco": 20.0,
+    "imagem": "imagens/oleo-essencial-copaiba-5-ml.jpeg"
+  },
+  {
+    "id": 203,
+    "nome": "Óleo Essencial Melaleuca 5 ml",
+    "descricao": "WNF",
+    "preco": 25.0,
+    "imagem": "imagens/oleo-essencial-melaleuca-5-ml.jpeg"
+  },
+  {
+    "id": 204,
+    "nome": "Pantigrafo",
+    "descricao": "Tima",
+    "preco": 250.0,
+    "imagem": "imagens/Pantigrafo.jpeg"
+  },
+  {
+    "id": 205,
+    "nome": "Papel Grau p/ Esterilização 10 x 100 m",
+    "descricao": "PackGC",
+    "preco": 50.0,
+    "imagem": "imagens/papel-grau-p-esterilizacao-10-x-100-m.jpeg"
+  },
+  {
+    "id": 206,
+    "nome": "Papel Grau p/ Esterilização 15 x 100 m",
+    "descricao": "PackGC",
+    "preco": 70.0,
+    "imagem": "imagens/papel-grau-p-esterilizacao-15-x-100-m.jpeg"
+  },
+  {
+    "id": 207,
+    "nome": "Papel Grau p/ Esterilização 5 x 100 m",
+    "descricao": "PackGC",
+    "preco": 30.0,
+    "imagem": "imagens/papel-grau-p-esterilizacao-5-x-100-m.jpeg"
+  },
+  {
+    "id": 208,
+    "nome": "Papel Grau p/ Esterilização 8 x 100 m",
+    "descricao": "PackGC",
+    "preco": 40.0,
+    "imagem": "imagens/papel-grau-p-esterilizacao-8-x-100-m.jpeg"
+  },
+  {
+    "id": 209,
+    "nome": "Paquimetro 20 cm",
+    "descricao": "Santa Clara",
+    "preco": 6.0,
+    "imagem": "imagens/paquimetro-20-cm.jpeg"
+  },
+  {
+    "id": 210,
+    "nome": "Paquimetro 6 cm",
+    "descricao": "Santa Clara",
+    "preco": 4.0,
+    "imagem": "imagens/paquimetro-6-cm.jpeg"
+  },
+  {
+    "id": 211,
+    "nome": "Pé Demonstrativo em Vinil",
+    "descricao": "Tima",
+    "preco": 70.0,
+    "imagem": "imagens/pe-demonstrativo-em-vinil.jpeg"
+  },
+  {
+    "id": 212,
+    "nome": "Peça Reta LB 100",
+    "descricao": "Beltec",
+    "preco": 200.0,
+    "imagem": "imagens/peca-reta-lb-100.jpeg"
+  },
+  {
+    "id": 213,
+    "nome": "Pinça Anatomica 14 cm",
+    "descricao": "Thimon",
+    "preco": 15.0,
+    "imagem": "imagens/pinca-anatomica-14-cm.jpeg"
+  },
+  {
+    "id": 214,
+    "nome": "Pinça Colagem Brackets",
+    "descricao": "Thimon",
+    "preco": 18.0,
+    "imagem": "imagens/pinca-colagem-brackets.jpeg"
+  },
+  {
+    "id": 215,
+    "nome": "Pinça Hemostática Kelly Curvada c/ 14cm Aço",
+    "descricao": "Thimon",
+    "preco": 35.0,
+    "imagem": "imagens/pinca-hemostatica-kelly-curvada-c-14cm-aco.jpeg"
+  },
+  {
+    "id": 216,
+    "nome": "Pinça Kelly Curva 14 cm",
+    "descricao": "Thimon",
+    "preco": 35.0,
+    "imagem": "imagens/pinca-kelly-curva-14-cm.jpeg"
+  },
+  {
+    "id": 217,
+    "nome": "Pinça Kelly Reta 14 cm",
+    "descricao": "Thimon",
+    "preco": 35.0,
+    "imagem": "imagens/pinca-kelly-reta-14-cm.jpeg"
+  },
+  {
+    "id": 218,
+    "nome": "Pinça Mosquito Curva 12 cm",
+    "descricao": "Thimon",
+    "preco": 35.0,
+    "imagem": "imagens/pinca-mosquito-curva-12-cm.jpeg"
+  },
+  {
+    "id": 219,
+    "nome": "Pinça Mosquito Reta 12 cm",
+    "descricao": "6B Germany",
+    "preco": 30.0,
+    "imagem": "imagens/pinca-mosquito-reta-12-cm.jpeg"
+  },
+  {
+    "id": 220,
+    "nome": "Polímero de Silicone",
+    "descricao": "Herbitas",
+    "preco": 250.0,
+    "imagem": "imagens/polimero-de-silicone.jpeg"
+  },
+  {
+    "id": 221,
+    "nome": "Porta Agulha Mathieu 12 cm",
+    "descricao": "Thimon",
+    "preco": 70.0,
+    "imagem": "imagens/porta-agulha-mathieu-12-cm.jpeg"
+  },
+  {
+    "id": 222,
+    "nome": "Pote Dappen Vidro Transparente",
+    "descricao": "Lysanda",
+    "preco": 6.0,
+    "imagem": "imagens/pote-dappen-vidro-transparente.jpeg"
+  },
+  {
+    "id": 223,
+    "nome": "Removedor de Esmalte 100 ml",
+    "descricao": "Isacare",
+    "preco": 5.0,
+    "imagem": "imagens/removedor-de-esmalte-100-ml.jpeg"
+  },
+  {
+    "id": 224,
+    "nome": "Resina Flow Podo Beauty 1,2 gr",
+    "descricao": "Podo Beauty",
+    "preco": 30.0,
+    "imagem": "imagens/resina-flow-podo-beauty-12-gr.jpeg"
+  },
+  {
+    "id": 225,
+    "nome": "Resina Universal Podo Beauty 4 gr",
+    "descricao": "Podo Beauty",
+    "preco": 30.0,
+    "imagem": "imagens/resina-universal-podo-beauty-4-gr.jpeg"
+  },
+  {
+    "id": 226,
+    "nome": "Sabonete Fungicida",
+    "descricao": "Elen Viana",
+    "preco": 40.0,
+    "imagem": "imagens/sabonete-fungicida.jpeg"
+  },
+  {
+    "id": 227,
+    "nome": "Saco Lixo Hospitalar 30 Litros",
+    "descricao": "Descarbox",
+    "preco": 15.0,
+    "imagem": "imagens/saco-lixo-hospitalar-30-litros.jpeg"
+  },
+  {
+    "id": 228,
+    "nome": "Setpro Plus desinfetante 5 Geração 1L",
+    "descricao": "Prolink",
+    "preco": 8.0,
+    "imagem": "imagens/setpro-plus-desinfetante-5-geracao-1l.jpeg"
+  },
+  {
+    "id": 229,
+    "nome": "Setpro Plus desinfetante 5 Geração 5L",
+    "descricao": "Prolink",
+    "preco": 30.0,
+    "imagem": "imagens/setpro-plus-desinfetante-5-geracao-5l.jpeg"
+  },
+  {
+    "id": 230,
+    "nome": "Setpro Plus desinfetante 5 Geração 750 ml",
+    "descricao": "Prolink",
+    "preco": 12.0,
+    "imagem": "imagens/setpro-plus-desinfetante-5-geracao-750-ml.jpeg"
+  },
+  {
+    "id": 231,
+    "nome": "Solução de Limpeza Aquosa Derma Protect 350 ml",
+    "descricao": "Missner",
+    "preco": 35.0,
+    "imagem": "imagens/solucao-de-limpeza-aquosa-derma-protect-350-ml.jpeg"
+  },
+  {
+    "id": 232,
+    "nome": "Solução de Limpeza Aquosa Derma Protect em espuma 150 ml",
+    "descricao": "Missner",
+    "preco": 40.0,
+    "imagem": "imagens/solucao-de-limpeza-aquosa-derma-protect-em-espuma-150-ml.jpeg"
+  },
+  {
+    "id": 233,
+    "nome": "Solução de Limpeza Aquosa Derma Protect em espuma 50 ml",
+    "descricao": "Missner",
+    "preco": 20.0,
+    "imagem": "imagens/solucao-de-limpeza-aquosa-derma-protect-em-espuma-50-ml.jpeg"
+  },
+  {
+    "id": 234,
+    "nome": "Solução Spray Antisseptico 28 ml",
+    "descricao": "Missner",
+    "preco": 12.0,
+    "imagem": "imagens/solucao-spray-antisseptico-28-ml.jpeg"
+  },
+  {
+    "id": 235,
+    "nome": "Sonda Uretral No. 04",
+    "descricao": "Biobase",
+    "preco": 2.0,
+    "imagem": "imagens/sonda-uretral-no.-04.jpeg"
+  },
+  {
+    "id": 236,
+    "nome": "Super Pé Gel Removedor de Cutícula 50 ml",
+    "descricao": "Prolab",
+    "preco": 20.0,
+    "imagem": "imagens/super-pe-gel-removedor-de-cuticula-50-ml.jpeg"
+  },
+  {
+    "id": 237,
+    "nome": "Super Pé Odor Free 100 ml",
+    "descricao": "Prolab",
+    "preco": 20.0,
+    "imagem": "imagens/super-pe-odor-free-100-ml.jpeg"
+  },
+  {
+    "id": 238,
+    "nome": "Super Pé Remove 220 ml",
+    "descricao": "Prolab",
+    "preco": 25.0,
+    "imagem": "imagens/super-pe-remove-220-ml.jpeg"
+  },
+  {
+    "id": 239,
+    "nome": "Super Pé Soft Touch 100 ml",
+    "descricao": "Prolab",
+    "preco": 20.0,
+    "imagem": "imagens/super-pe-soft-touch-100-ml.jpeg"
+  },
+  {
+    "id": 240,
+    "nome": "Super Pé Spray 50 ml",
+    "descricao": "Prolab",
+    "preco": 25.0,
+    "imagem": "imagens/super-pe-spray-50-ml.jpeg"
+  },
+  {
+    "id": 241,
+    "nome": "Termometro Clinico Haste fixa Branco",
+    "descricao": "Dellamed",
+    "preco": 15.0,
+    "imagem": "imagens/termometro-clinico-haste-fixa-branco.jpeg"
+  },
+  {
+    "id": 242,
+    "nome": "Termometro Infra",
+    "descricao": "Dellamed",
+    "preco": 70.0,
+    "imagem": "imagens/termometro-infra.jpeg"
+  },
+  {
+    "id": 243,
+    "nome": "Tesoura Castroviejo 11 cm reta sem serrilha",
+    "descricao": "Thimon",
+    "preco": 100.0,
+    "imagem": "imagens/tesoura-castroviejo-11-cm-reta-sem-serrilha.jpeg"
+  },
+  {
+    "id": 244,
+    "nome": "Tesoura Iris Reta 12 cm",
+    "descricao": "Thimon",
+    "preco": 30.0,
+    "imagem": "imagens/tesoura-iris-reta-12-cm.jpeg"
+  },
+  {
+    "id": 245,
+    "nome": "Tesoura Metzambaum",
+    "descricao": "Thimon",
+    "preco": 40.0,
+    "imagem": "imagens/tesoura-metzambaum.jpeg"
+  },
+  {
+    "id": 246,
+    "nome": "Tesoura ponta romba reta 15cm Aço Inox",
+    "descricao": "Estek",
+    "preco": 25.0,
+    "imagem": "imagens/tesoura-ponta-romba-reta-15cm-aco-inox.jpeg"
+  },
+  {
+    "id": 247,
+    "nome": "Touca Descartável Tam. Único Azul",
+    "descricao": "Deferpack",
+    "preco": 15.0,
+    "imagem": "imagens/touca-descartavel-tam.-unico-azul.jpeg"
+  },
+  {
+    "id": 248,
+    "nome": "Tubo Capilar/ Micro Pipeta sem Heparina 500 unid",
+    "descricao": "Perfecta",
+    "preco": 25.0,
+    "imagem": "imagens/tubo-capilar-micro-pipeta-sem-heparina-500-unid.jpeg"
+  }
+]
